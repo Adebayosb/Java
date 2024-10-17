@@ -1,0 +1,9 @@
+Pseudocode Feettometers
+Stage1
+prompt user to enter length in feet
+collect the measurement
+
+
+Stage2
+calculate in meter
+display the result in meter

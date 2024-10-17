@@ -1,0 +1,14 @@
+Pseudocode Palindromeinteger
+Stage1
+prompt user to enter three digit
+collect integer
+calculate palindrome
+Stage2
+prompt user to enter three digit
+collect integer
+save as digit
+calculate the palindrome
+if digit1 is equal to digit2
+display is not palindrome
+display result
+
