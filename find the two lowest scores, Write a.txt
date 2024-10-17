@@ -1,4 +1,0 @@
-find the two lowest scores, Write a program that prompts the user to enter the number of students and each student's name the score, and finally display the names of the students with the lowest and second-lowest scores
-
-
-geometry area of a triangle write a program that prompts the user to enter three points (x1, y1)
